@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @watermullon
-- 👀 I’m interested in practical defi projects 
-- 🌱 I’m currently working on a vehicle to invest in quality projects
-- 💞️ I’m looking to collaborate with people with great ideas and even better character 
+- 👀 I’m interested in practical fintech tradfi and defi projects 
+- 🌱 I’m currently working on fund manager tools (risk, portfolio management) in crypto space
+- I'm also working on hardening crypto saftey for non-custodial wallet users, especially in terms of inheritance and transaction guardrails
+- 💞️ I’m always looking to collaborate with people and orgs (part time) with great ideas and even better character 
 - 📫 How to reach me at watermullon@gmail.com
 
 <!---
